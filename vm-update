@@ -1,0 +1,5 @@
+#!/bin/sh
+# used to do any updates needed on the student VMs
+
+notify-send "swi-bin" "~/swi-bin updated"
+exit 0
